@@ -1,4 +1,6 @@
-## Hi there 👋
+## Venkat Rao
+
+![Project Euler](https://projecteuler.net/profile/venkatrao1.png)
 
 <!--
 **venkatrao1/venkatrao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
